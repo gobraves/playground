@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="30.0" prefWidth="322.0" spacing="5.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="listLabel" prefHeight="25.0" prefWidth="195.0" text="Label" />
+      <Pane prefHeight="30.0" prefWidth="19.0" />
+      <Button fx:id="okButton" mnemonicParsing="false" prefHeight="25.0" prefWidth="42.0" text="OK" />
+      <Button fx:id="deleteButton" mnemonicParsing="false" prefHeight="25.0" prefWidth="44.0" text="X" />
+   </children>
+</HBox>
