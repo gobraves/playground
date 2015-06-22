@@ -11,7 +11,7 @@ or
 ####5.添加改动说明
 `git commit -m "first commit"`
 ####6.将本地仓库与github项目仓库相关联
-`git remote add origin git clone https://github.com/gobraves/playground.git`
+`git remote add origin https://github.com/gobraves/playground.git`
 ####7.将本地仓库的内容同步到远程仓库
 `git push -u origin master`
 ![problem](bug.png "problem")
