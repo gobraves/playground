@@ -3,6 +3,8 @@
 ### vanity
 ### delegate
 ### dedicate
+- vt. 奉献；献身
+
 ### feasible
 ### majesty
 ### marvelous
@@ -112,6 +114,83 @@
 ### compassion
 ### synchronise
 ### temptation 
+### depict
+- v. 描绘，描写
+
+### peg
+
+### forge
+
+### assassination
+- n. 暗杀
+
+### prosperous
+- adj. 富裕的；繁荣的；茂盛的；茁壮成长的
+
+### sneak
+- vi. 鬼鬼祟祟地走，潜行；打小报告
+- vt. 偷窃；
+- adj. 偷偷的
+- n. 行为鬼祟的人；溜走
+
+### fury
+- n. 狂怒，暴怒；狂暴；猛烈
+
+### plaster
+### dismay
+- n. 沮丧，失望，气馁
+
+### complication
+### grin 
+- v. 露齿而笑，咧嘴一笑
+- n. 龇牙笑
+
+### dread
+### vigour
+### knit
+### sham
+### scrub
+### escort
+### adhere
+### velocity
+### profess
+### panther
+### compile
+### authentic
+### bazaar
+### spiral
+### portray
+### repel
+### blur
+### decent
+### diminish
+### harp
+### repeal
+### molten
+### instinct
+### shutter
+### resemblance
+### unanimous
+- adj. 全体一致的
+
+### confession
+
+### toad
+### tickle
+### pastry
+### luxurious
+### screw
+### deprive
+### recede
+### legacy
+### gear
+### sardine
+### blunt
+### scorch
+### discern
+### deem
+### corrupt
+### 
 
 
 
