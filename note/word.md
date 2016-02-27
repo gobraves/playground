@@ -190,7 +190,38 @@
 ### discern
 ### deem
 ### corrupt
-### 
+### elaborate
+### expire
+- v. 期满，期限，终止，断气
 
+### alternate
+- adj. 交替的，轮流的
+- v. (使）交替，（使）轮流
+- n. 代替者
 
+### propel 
+### saddle
+### invincible
+### instinct
+### profound
+### relish
+### oust
+- v. 驱逐，剥夺，取代
 
+### ballot
+- n. 选票；投票表决；投票总数
+- vi. 通过投票决定
+- vt. 使投票表决
+
+### cessation
+- n. 停止，中止，中断
+
+### brook
+- v. 忍受；容忍
+- n. 小溪；小河
+
+### penal 
+- adj. 刑事的；刑罚的
+
+### dispose
+- v. 处置，处理，除去；使愿意
