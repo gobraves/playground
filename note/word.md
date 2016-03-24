@@ -278,4 +278,9 @@
 ### sly
 - adj. 狡猾的，奸诈的；会心的；淘气的；诡异的
 
+### notion
+### collaborative
+### utilize
+### temperament
+### residual
 
