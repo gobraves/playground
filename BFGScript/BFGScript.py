@@ -3,6 +3,7 @@
 import argparse
 import time
 import os
+import string
 
 # 获取参数
 parser = argparse.ArgumentParser(description="generate markdown file")
@@ -16,14 +17,17 @@ tags = args.tags
 
 # 生成模板
 taglist = ""
-for x in tags:
-    tag = " - " + x + os.linesep
-    taglist = taglist + tag
+if tags:
+    for x in tags:
+        tag = " - " + x + os.linesep
+        taglist = taglist + tag
 
 new_categories = ""
-for x in categories:
-    category = " - " + x + os.linesep
-    new_categories = new_categories + category
+if categories:
+    for x in categories:
+        category = " - " + x + os.linesep
+        new_categories = new_categories + category
+
 line = "---" + os.linesep
 content = """\
 layout: post  
